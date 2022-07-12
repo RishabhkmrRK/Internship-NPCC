@@ -1,12 +1,4 @@
-# Internship-NPCC
-My internship at NPCC, my task was to read and understand electrical drawing of floor plan (tower 2).
-# Internship-NPCC
-My internship at NPCC, my task was to read and understand electrical drawing of floor plan (tower 2).
-dskfljdslkfj \
+# NATIONAL PROJECTS CONSTRUCTION CORPORATION INTERNSHIP
 
-hsdfsjldf1
-1. hjfdsfj
-2. jaksdfjlkasdjf
-3. lajksdfkladsljf
-4. Electical plans 
-5. 
+## Overview
+From June 03,2018 to July 13, 2018, I had the given an oppotunity to do internship at National Projects Construction Corporation Limited (NPCC), New Delhi.
